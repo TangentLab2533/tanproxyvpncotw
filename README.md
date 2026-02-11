@@ -1,2 +1,2 @@
-# tanproxyvpncotw
-这是一个翻墙软件发布地址
+# TangentLab官网
+8.154.28.102
